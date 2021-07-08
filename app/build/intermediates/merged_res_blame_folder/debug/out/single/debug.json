@@ -1,0 +1,702 @@
+[
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_design.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\input_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_maintain_products.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_admin_maintain_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grocery.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\grocery.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_home.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\app_bar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_supermarket.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\supermarket.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_order_items_layout.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\order_items_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_product_items_layout.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\product_items_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_filter_list_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorite_red_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_favorite_red_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoe_c.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\shoe_c.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorite_shadow_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_favorite_shadow_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_products.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_search_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorite_shadow_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_favorite_shadow_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_order_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_order_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_keyboard_backspace_black_24dp.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_keyboard_backspace_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_keyboard_backspace_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_keyboard_backspace_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_orders_layout.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\orders_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_filter_list_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget_password.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hijab.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\hijab.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_new_orders.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_admin_new_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_filter_list_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo2.jpg.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\logo2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_filter_list_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_orders.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_view_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_filter_list_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dress.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\dress.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_youtube_searched_for_black_24dp.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_youtube_searched_for_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_purses_bags.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\purses_bags.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sport.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\sport.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_filter_vintage_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_filter_vintage_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorite_border_black_24dp.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite_border_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_items_layout.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\cart_items_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_youtube_searched_for_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_youtube_searched_for_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_order_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_order_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorite_shadow_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorite_shadow_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bk2.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\round_bk2.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_home_drawer.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\menu\\activity_home_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_order_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_order_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wedding.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\wedding.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_keyboard_backspace_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_keyboard_backspace_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_order_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_order_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wish_list.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_wish_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jewel.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\jewel.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_filter_vintage_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_filter_vintage_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_filter_vintage_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_filter_vintage_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoe.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\shoe.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_filter_vintage_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_filter_vintage_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_device.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\device.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_keyboard_backspace_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_keyboard_backspace_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorite_shadow_24dp.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite_shadow_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kids.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_kids.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_filter_vintage_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_filter_vintage_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select_img.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\select_img.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_filter_list_white_24dp.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_filter_list_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorite_red_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_favorite_red_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite_red_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_red_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_keyboard_backspace_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_keyboard_backspace_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_youtube_searched_for_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_youtube_searched_for_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_category.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\category.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorite_red_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite_red_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_users_products.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_admin_users_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shoes.PNG.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\shoes.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite_shadow_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_favorite_shadow_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_welcome_title.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\welcome_title.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bk5.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\round_bk5.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_youtube_searched_for_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_youtube_searched_for_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nav_cart.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\nav_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background3.jpg.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\background3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_order_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_order_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_filter_list_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_filter_list_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_details.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_keyboard_backspace_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_keyboard_backspace_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glasses.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\glasses.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_add_product.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_admin_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite_red_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_favorite_red_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_men.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\men.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite_shadow_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_shadow_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_white_24dp.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_filter_vintage_white_24dp.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_filter_vintage_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_watches.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\watches.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_books.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\books.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorite_red_24dp.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite_red_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite_border_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_favorite_border_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttons.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_wishlist_items_layout.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\wishlist_items_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_join_design.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\join_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_keyboard_backspace_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_keyboard_backspace_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorite_shadow_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite_shadow_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_food_back.jpg.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\food_back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_home.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\nav_header_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medicine.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\medicine.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.jpg.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bk3.jpg.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\round_bk3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_youtube_searched_for_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_youtube_searched_for_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_shopping_cart_black_24dp.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_shopping_cart_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_women.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\women.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_order_black_24dp.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_order_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_shopping_cart_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_shopping_cart_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_order_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_order_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reg_background.jpg.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\reg_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorite_red_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorite_red_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_filter_vintage_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_filter_vintage_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_home.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\content_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_women.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_women.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_options.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\dialog_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confirm_order.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_confirm_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttons1.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\buttons1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_youtube_searched_for_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_youtube_searched_for_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_men.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_men.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_white_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background2.jpg.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_category.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_admin_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_category_list.xml.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_category_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kids.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\kids.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orders.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\orders.png"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_youtube_searched_for_black_24dp.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_youtube_searched_for_black_24dp.png"
+    }
+]

@@ -1,0 +1,269 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.shoppingapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+13-->[com.firebaseui:firebase-ui-database:6.1.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\f1aa2f449cc73388cb7ad62e88dae808\jetified-firebase-ui-database-6.1.0\AndroidManifest.xml:11:5-67
+13-->[com.firebaseui:firebase-ui-database:6.1.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\f1aa2f449cc73388cb7ad62e88dae808\jetified-firebase-ui-database-6.1.0\AndroidManifest.xml:11:22-64
+14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\5a604b06f384fce5a51279271efda689\jetified-firebase-database-20.0.0\AndroidManifest.xml:25:5-79
+15-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\5a604b06f384fce5a51279271efda689\jetified-firebase-database-20.0.0\AndroidManifest.xml:25:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\693a3366ee531a6a1802b2ca4b396e3f\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:24:5-68
+16-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\693a3366ee531a6a1802b2ca4b396e3f\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+17-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:5-110
+17-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:26:22-107
+18
+19    <application
+19-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:8:5-63:19
+20        android:allowBackup="true"
+20-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:9:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.0-alpha02] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\404d92a74d2b0346c2eaafe77a5af049\core-1.3.0-alpha02\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:10:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:11:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:12:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:13:9-35
+27        android:theme="@style/AppTheme" >
+27-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:14:9-40
+28        <activity android:name="com.example.shoppingapp.ViewOrdersActivity" />
+28-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:15:9-65
+28-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:15:19-53
+29        <activity android:name="com.example.shoppingapp.Category.KidsActivity" />
+29-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:16:9-59
+29-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:16:19-56
+30        <activity android:name="com.example.shoppingapp.Category.WomenActivity" />
+30-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:17:9-60
+30-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:17:19-57
+31        <activity android:name="com.example.shoppingapp.Category.MenActivity" />
+31-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:18:9-58
+31-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:18:19-55
+32        <activity android:name="com.example.shoppingapp.Category.CategoryListActivity" />
+32-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:19:9-67
+32-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:19:19-64
+33        <activity android:name="com.example.shoppingapp.WishListActivity" />
+33-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:20:9-54
+33-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:20:19-51
+34        <activity android:name="com.example.shoppingapp.ForgetPasswordActivity" />
+34-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:21:9-60
+34-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:21:19-57
+35        <activity android:name="com.example.shoppingapp.Admin.AdminMaintainProductsActivity" />
+35-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:22:9-73
+35-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:22:19-70
+36        <activity android:name="com.example.shoppingapp.SearchProductsActivity" />
+36-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:23:9-60
+36-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:23:19-57
+37        <activity android:name="com.example.shoppingapp.Admin.AdminUsersProductsActivity" />
+37-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:24:9-70
+37-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:24:19-67
+38        <activity android:name="com.example.shoppingapp.Admin.AdminNewOrdersActivity" />
+38-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:25:9-66
+38-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:25:19-63
+39        <activity android:name="com.example.shoppingapp.ConfirmOrderActivity" />
+39-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:26:9-58
+39-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:26:19-55
+40        <activity android:name="com.example.shoppingapp.CartActivity" />
+40-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:27:9-50
+40-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:27:19-47
+41        <activity
+41-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:28:9-36:20
+42            android:name="com.example.shoppingapp.SplashActivity"
+42-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:29:13-43
+43            android:theme="@style/SplashTheme" >
+43-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:30:13-47
+44            <intent-filter>
+44-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:31:13-35:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:32:17-69
+45-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:32:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:34:17-77
+47-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:34:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity android:name="com.example.shoppingapp.ProductDetailsActivity" />
+50-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:37:9-60
+50-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:37:19-57
+51        <activity android:name="com.example.shoppingapp.SettingsActivity" />
+51-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:38:9-54
+51-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:38:19-51
+52        <activity
+52-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:39:9-42:59
+53            android:name="com.example.shoppingapp.HomeActivity"
+53-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:40:13-41
+54            android:label="@string/title_activity_home"
+54-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:41:13-56
+55            android:theme="@style/AppTheme.NoActionBar" />
+55-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:42:13-56
+56        <activity android:name="com.example.shoppingapp.Admin.AdminCategoryActivity" />
+56-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:43:9-65
+56-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:43:19-62
+57        <activity android:name="com.example.shoppingapp.Admin.AdminAddProductActivity" />
+57-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:44:9-67
+57-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:44:19-64
+58        <activity android:name="com.example.shoppingapp.RegisterActivity" />
+58-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:45:9-54
+58-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:45:19-51
+59        <activity android:name="com.example.shoppingapp.LoginActivity" />
+59-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:46:9-51
+59-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:46:19-48
+60        <activity android:name="com.example.shoppingapp.MainActivity" >
+60-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:47:9-55:20
+60-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:47:19-47
+61
+62            <!-- <intent-filter> -->
+63            <!-- <action android:name="android.intent.action.MAIN" /> -->
+64
+65
+66            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+67            <!-- </intent-filter> -->
+68        </activity> <!-- (edited by urme) optional (needed if default theme has no action bar) -->
+69        <activity
+69-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:56:9-58:59
+70            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+70-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:57:13-76
+71            android:theme="@style/Base.Theme.AppCompat" />
+71-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:58:13-56
+72
+73        <meta-data
+73-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:60:9-62:57
+74            android:name="preloaded_fonts"
+74-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:61:13-43
+75            android:resource="@array/preloaded_fonts" />
+75-->C:\Users\Khairul Anam Mubin\Desktop\SDP4\ShoppingApp\app\src\main\AndroidManifest.xml:62:13-54
+76
+77        <service
+77-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\5a604b06f384fce5a51279271efda689\jetified-firebase-database-20.0.0\AndroidManifest.xml:29:9-35:19
+78            android:name="com.google.firebase.components.ComponentDiscoveryService"
+78-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\5a604b06f384fce5a51279271efda689\jetified-firebase-database-20.0.0\AndroidManifest.xml:30:13-84
+79            android:directBootAware="true"
+79-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\ef8b0316f80304d8bf2f413ed9f71732\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+80            android:exported="false" >
+80-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\5a604b06f384fce5a51279271efda689\jetified-firebase-database-20.0.0\AndroidManifest.xml:31:13-37
+81            <meta-data
+81-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\5a604b06f384fce5a51279271efda689\jetified-firebase-database-20.0.0\AndroidManifest.xml:32:13-34:85
+82                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+82-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\5a604b06f384fce5a51279271efda689\jetified-firebase-database-20.0.0\AndroidManifest.xml:33:17-109
+83                android:value="com.google.firebase.components.ComponentRegistrar" />
+83-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\5a604b06f384fce5a51279271efda689\jetified-firebase-database-20.0.0\AndroidManifest.xml:34:17-82
+84            <meta-data
+84-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\7da7c4c2c55b95311fa7d99f1119567e\jetified-firebase-storage-20.0.0\AndroidManifest.xml:33:13-35:85
+85                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+85-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\7da7c4c2c55b95311fa7d99f1119567e\jetified-firebase-storage-20.0.0\AndroidManifest.xml:34:17-107
+86                android:value="com.google.firebase.components.ComponentRegistrar" />
+86-->[com.google.firebase:firebase-storage:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\7da7c4c2c55b95311fa7d99f1119567e\jetified-firebase-storage-20.0.0\AndroidManifest.xml:35:17-82
+87            <meta-data
+87-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\693a3366ee531a6a1802b2ca4b396e3f\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:30:13-32:85
+88                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+88-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\693a3366ee531a6a1802b2ca4b396e3f\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:31:17-139
+89                android:value="com.google.firebase.components.ComponentRegistrar" />
+89-->[com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\693a3366ee531a6a1802b2ca4b396e3f\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:32:17-82
+90            <meta-data
+90-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\1251f431fa1cdcc135e150ea6d84a29a\jetified-firebase-installations-17.0.0\AndroidManifest.xml:18:13-20:85
+91                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+91-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\1251f431fa1cdcc135e150ea6d84a29a\jetified-firebase-installations-17.0.0\AndroidManifest.xml:19:17-127
+92                android:value="com.google.firebase.components.ComponentRegistrar" />
+92-->[com.google.firebase:firebase-installations:17.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\1251f431fa1cdcc135e150ea6d84a29a\jetified-firebase-installations-17.0.0\AndroidManifest.xml:20:17-82
+93        </service>
+94
+95        <provider
+95-->[com.squareup.picasso:picasso:2.71828] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e763ca8dc26938da2a7e8dff4e8193ae\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+96            android:name="com.squareup.picasso.PicassoProvider"
+96-->[com.squareup.picasso:picasso:2.71828] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e763ca8dc26938da2a7e8dff4e8193ae\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+97            android:authorities="com.example.shoppingapp.com.squareup.picasso"
+97-->[com.squareup.picasso:picasso:2.71828] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e763ca8dc26938da2a7e8dff4e8193ae\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+98            android:exported="false" />
+98-->[com.squareup.picasso:picasso:2.71828] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e763ca8dc26938da2a7e8dff4e8193ae\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+99        <provider
+99-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\ef8b0316f80304d8bf2f413ed9f71732\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+100            android:name="com.google.firebase.provider.FirebaseInitProvider"
+100-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\ef8b0316f80304d8bf2f413ed9f71732\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+101            android:authorities="com.example.shoppingapp.firebaseinitprovider"
+101-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\ef8b0316f80304d8bf2f413ed9f71732\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+102            android:directBootAware="true"
+102-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\ef8b0316f80304d8bf2f413ed9f71732\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+103            android:exported="false"
+103-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\ef8b0316f80304d8bf2f413ed9f71732\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+104            android:initOrder="100" />
+104-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\ef8b0316f80304d8bf2f413ed9f71732\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+105
+106        <receiver
+106-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+107            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+107-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+108            android:enabled="true"
+108-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+109            android:exported="false" >
+109-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+110        </receiver>
+111
+112        <service
+112-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+113            android:name="com.google.android.gms.measurement.AppMeasurementService"
+113-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+114            android:enabled="true"
+114-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+115            android:exported="false" />
+115-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+116        <service
+116-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+117            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+117-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+118            android:enabled="true"
+118-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+119            android:exported="false"
+119-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+120            android:permission="android.permission.BIND_JOB_SERVICE" />
+120-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\e2f8e045e2bfa31a157ea23b9c213426\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+121
+122        <activity
+122-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\c0cfd82fc458a9c05f4fac47e9b112d0\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+123            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+123-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\c0cfd82fc458a9c05f4fac47e9b112d0\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+124            android:exported="false"
+124-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\c0cfd82fc458a9c05f4fac47e9b112d0\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+125            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+125-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\c0cfd82fc458a9c05f4fac47e9b112d0\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+126
+127        <meta-data
+127-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\aed216302ec19ecbea96c44ee84be4c9\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+128            android:name="com.google.android.gms.version"
+128-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\aed216302ec19ecbea96c44ee84be4c9\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+129            android:value="@integer/google_play_services_version" />
+129-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\aed216302ec19ecbea96c44ee84be4c9\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+130
+131        <provider
+131-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\23daf90bce2352fa65b9360d683d4bf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+132            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+132-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\23daf90bce2352fa65b9360d683d4bf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+133            android:authorities="com.example.shoppingapp.lifecycle-process"
+133-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\23daf90bce2352fa65b9360d683d4bf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+134            android:exported="false"
+134-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\23daf90bce2352fa65b9360d683d4bf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+135            android:multiprocess="true" />
+135-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\Khairul Anam Mubin\.gradle\caches\transforms-2\files-2.1\23daf90bce2352fa65b9360d683d4bf5\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+136    </application>
+137
+138</manifest>
