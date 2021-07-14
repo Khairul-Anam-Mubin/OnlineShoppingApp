@@ -28,11 +28,11 @@ com/example/shoppingapp/ui/gallery/GalleryViewModel.java
 com/example/shoppingapp/ui/home/HomeFragment.java
  com.example.shoppingapp.ui.home.HomeFragment
  com.example.shoppingapp.ui.home.HomeFragment$1
-com/example/shoppingapp/HomeActivity.java
- com.example.shoppingapp.HomeActivity
- com.example.shoppingapp.HomeActivity$1
- com.example.shoppingapp.HomeActivity$2
- com.example.shoppingapp.HomeActivity$2$1
+com/example/shoppingapp/RegisterActivity.java
+ com.example.shoppingapp.RegisterActivity
+ com.example.shoppingapp.RegisterActivity$1
+ com.example.shoppingapp.RegisterActivity$2
+ com.example.shoppingapp.RegisterActivity$2$1
 com/example/shoppingapp/Model/Cart.java
  com.example.shoppingapp.Model.Cart
 com/example/shoppingapp/Admin/AdminCategoryActivity.java
@@ -78,8 +78,12 @@ com/example/shoppingapp/Category/KidsActivity.java
 com/example/shoppingapp/ViewOrdersActivity.java
  com.example.shoppingapp.ViewOrdersActivity
  com.example.shoppingapp.ViewOrdersActivity$1
-com/example/shoppingapp/Model/Favorites.java
- com.example.shoppingapp.Model.Favorites
+com/example/shoppingapp/LoginActivity.java
+ com.example.shoppingapp.LoginActivity
+ com.example.shoppingapp.LoginActivity$1
+ com.example.shoppingapp.LoginActivity$2
+ com.example.shoppingapp.LoginActivity$3
+ com.example.shoppingapp.LoginActivity$4
 com/example/shoppingapp/ViewHolder/OrderViewHolder.java
  com.example.shoppingapp.ViewHolder.OrderViewHolder
 com/example/shoppingapp/ui/slideshow/SlideshowFragment.java
@@ -109,15 +113,11 @@ com/example/shoppingapp/CartActivity.java
  com.example.shoppingapp.CartActivity$3$1$1
  com.example.shoppingapp.CartActivity$3$1$1$1
  com.example.shoppingapp.CartActivity$4
-com/example/shoppingapp/SettingsActivity.java
- com.example.shoppingapp.SettingsActivity
- com.example.shoppingapp.SettingsActivity$1
- com.example.shoppingapp.SettingsActivity$2
- com.example.shoppingapp.SettingsActivity$3
- com.example.shoppingapp.SettingsActivity$4
- com.example.shoppingapp.SettingsActivity$5
- com.example.shoppingapp.SettingsActivity$6
- com.example.shoppingapp.SettingsActivity$7
+com/example/shoppingapp/MainActivity.java
+ com.example.shoppingapp.MainActivity
+ com.example.shoppingapp.MainActivity$1
+ com.example.shoppingapp.MainActivity$2
+ com.example.shoppingapp.MainActivity$3
 com/example/shoppingapp/SplashActivity.java
  com.example.shoppingapp.SplashActivity
  com.example.shoppingapp.SplashActivity$1
@@ -160,19 +160,19 @@ com/example/shoppingapp/ForgetPasswordActivity.java
  com.example.shoppingapp.ForgetPasswordActivity
 com/example/shoppingapp/ui/slideshow/SlideshowViewModel.java
  com.example.shoppingapp.ui.slideshow.SlideshowViewModel
-com/example/shoppingapp/LoginActivity.java
- com.example.shoppingapp.LoginActivity
- com.example.shoppingapp.LoginActivity$1
- com.example.shoppingapp.LoginActivity$2
- com.example.shoppingapp.LoginActivity$3
- com.example.shoppingapp.LoginActivity$4
-com/example/shoppingapp/MainActivity.java
- com.example.shoppingapp.MainActivity
- com.example.shoppingapp.MainActivity$1
- com.example.shoppingapp.MainActivity$2
- com.example.shoppingapp.MainActivity$3
-com/example/shoppingapp/RegisterActivity.java
- com.example.shoppingapp.RegisterActivity
- com.example.shoppingapp.RegisterActivity$1
- com.example.shoppingapp.RegisterActivity$2
- com.example.shoppingapp.RegisterActivity$2$1
+com/example/shoppingapp/HomeActivity.java
+ com.example.shoppingapp.HomeActivity
+ com.example.shoppingapp.HomeActivity$1
+ com.example.shoppingapp.HomeActivity$2
+ com.example.shoppingapp.HomeActivity$2$1
+com/example/shoppingapp/Model/Favorites.java
+ com.example.shoppingapp.Model.Favorites
+com/example/shoppingapp/SettingsActivity.java
+ com.example.shoppingapp.SettingsActivity
+ com.example.shoppingapp.SettingsActivity$1
+ com.example.shoppingapp.SettingsActivity$2
+ com.example.shoppingapp.SettingsActivity$3
+ com.example.shoppingapp.SettingsActivity$4
+ com.example.shoppingapp.SettingsActivity$5
+ com.example.shoppingapp.SettingsActivity$6
+ com.example.shoppingapp.SettingsActivity$7

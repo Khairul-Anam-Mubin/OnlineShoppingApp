@@ -1825,6 +1825,7 @@ menu activity_home_drawer
 menu crop_image_menu
 menu home
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 navigation mobile_navigation
 string abc_action_bar_home_description

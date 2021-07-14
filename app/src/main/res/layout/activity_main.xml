@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/app_logo"
         android:fontFamily="@font/aclonica"
-        android:text="Compras BD"
+        android:text="Prime eShop"
         android:textSize="30sp"
         android:textColor="@android:color/holo_blue_dark"
         android:textAlignment="center"
@@ -60,7 +60,7 @@
         android:textAllCaps="false"
         android:textSize="15sp"
         android:text="Already have an account? Login"
-        android:textColor="#ffffff"
+        android:textColor="@android:color/black"
         />
     <Button
         android:id="@+id/join_button"
@@ -75,7 +75,7 @@
         android:textAllCaps="false"
         android:textSize="20sp"
         android:text="Join Now"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@android:color/black"
         />
 
 </RelativeLayout>

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/background3"
+    android:background="@drawable/background"
     tools:context=".RegisterActivity">
 
     <ImageView
@@ -22,11 +22,11 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="150dp"
         android:layout_alignParentEnd="true"
-        android:layout_marginRight="30dp"
+        android:layout_marginRight="5dp"
         android:fontFamily="@font/aclonica"
-        android:text="Compras BD"
-        android:textSize="25sp"
-        android:textColor="#f5e042"
+        android:text="Prime eShop"
+        android:textSize="30sp"
+        android:textColor="@android:color/holo_blue_bright"
         android:textAlignment="center"
         android:gravity="center_horizontal"
         android:layout_centerHorizontal="true"

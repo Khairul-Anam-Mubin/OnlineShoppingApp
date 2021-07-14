@@ -24,6 +24,10 @@
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_admin_maintain_products.xml"
     },
     {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_home.xml"
     },
@@ -128,10 +132,6 @@
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_forget_password.xml"
     },
     {
-        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hijab.png.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\hijab.png"
     },
@@ -184,10 +184,6 @@
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\purses_bags.png"
     },
     {
-        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\menu\\home.xml"
     },
@@ -206,10 +202,6 @@
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_cart_items_layout.xml.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\cart_items_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite_border_black_24dp.png.flat",
@@ -250,10 +242,6 @@
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_order_black_24dp.png.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_order_black_24dp.png"
-    },
-    {
-        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wedding.png.flat",
@@ -316,10 +304,6 @@
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite_border_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
@@ -338,10 +322,6 @@
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select_img.png.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\select_img.png"
-    },
-    {
-        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_filter_list_white_24dp.xml.flat",
@@ -436,16 +416,16 @@
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\fragment_home.xml"
     },
     {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_shopping_cart_black_24dp.png.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_shopping_cart_black_24dp.png"
     },
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background3.jpg.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\background3.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
@@ -466,6 +446,10 @@
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_details.xml.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
@@ -490,6 +474,10 @@
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_add_product.xml.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_admin_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite_red_24dp.png.flat",
@@ -564,10 +552,6 @@
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\nav_header_home.xml"
     },
     {
-        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medicine.png.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\medicine.png"
     },
@@ -586,10 +570,6 @@
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_shopping_cart_black_24dp.xml.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_shopping_cart_black_24dp.xml"
-    },
-    {
-        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_women.png.flat",
@@ -640,10 +620,6 @@
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\dialog_options.xml"
     },
     {
-        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confirm_order.xml.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\layout\\activity_confirm_order.xml"
     },
@@ -678,6 +654,10 @@
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background2.jpg.flat",
         "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\drawable\\background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\Khairul Anam Mubin\\Desktop\\SDP4\\ShoppingApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin_category.xml.flat",
